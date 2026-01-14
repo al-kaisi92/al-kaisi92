@@ -69,19 +69,6 @@ Analytics & BI      Power BI | QuickSight | PostgreSQL | Oracle DB
 
 ---
 
-### Experience Highlights
-
-**Department for Business and Trade** - MLOps Engineer
-> Supported multi-million-pound AI Enablement Programme. Delivered autoscaling strategies for SageMaker inference endpoints, set up RAG architecture with Bedrock & OpenSearch.
-
-**Department for Work and Pensions** - Data Engineer
-> Designed ETL pipelines for next-gen health data platform. Built synthetic data generators with PySpark & Faker. Delivered Power BI training and dashboards.
-
-**Home Office** - Data Engineer
-> Built data quality assurance tools with AWS Glue & Redshift. Automated pipelines for graph databases. Containerised data transformation workflows.
-
----
-
 ### Education
 
 | Degree | Field |
